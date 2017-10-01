@@ -5,6 +5,9 @@ public class SampleTestClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("First step created");
+		
+		System.out.println("Second step added");
+		
 
 	}
 
